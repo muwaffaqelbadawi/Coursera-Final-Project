@@ -1,2 +1,2 @@
-# kingmoaffag10-gmail.com
+# This a Coursera project
 Coursera_Final_Project
