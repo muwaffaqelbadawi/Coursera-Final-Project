@@ -1,2 +1,2 @@
-# This a Coursera project
+# This is a Coursera project
 Coursera_Final_Project
